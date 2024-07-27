@@ -1,0 +1,13 @@
+darts==0.30.0
+jupyterlab==4.1.5
+kaleido==0.2.1
+keras==2.15.0
+matplotlib==3.8.4
+matplotlib-inline==0.1.6
+numpy==1.26.4
+pandas==2.2.1
+scikit-learn==1.4.1
+scipy==1.13.0
+seaborn==0.13.2
+statsmodels==0.14.2
+torch==2.3.1
